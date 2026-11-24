@@ -7,13 +7,14 @@ This repo is a personal place to keep questions worth asking, links I trust for 
 ## Contents
 
 - [How to evaluate a nonprofit](guides/how-to-evaluate-a-nonprofit.md)
+- [Reading a Form 990](guides/reading-a-form-990.md)
 - [Resources](#resources)
 - [How to contribute](#how-to-contribute)
 - [License](#license)
 
 ## How to evaluate a nonprofit
 
-I put a longer, sourced set of notes in [How to evaluate a nonprofit](guides/how-to-evaluate-a-nonprofit.md). It covers confirming an organization's standing, reading its work and finances, using independent evaluators, and deciding whether it is a good fit.
+I put a longer, sourced set of notes in [How to evaluate a nonprofit](guides/how-to-evaluate-a-nonprofit.md). It covers confirming an organization's standing, reading its work and finances, using independent evaluators, and deciding whether it is a good fit. There is also a short companion note on [reading a Form 990](guides/reading-a-form-990.md).
 
 ## Resources
 

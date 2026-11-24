@@ -34,7 +34,7 @@ The BBB Wise Giving Alliance includes measuring effectiveness in its [20 Standar
 
 ## 3. Read the finances with some care
 
-Form 990 and, when available, audited financial statements show how money comes in and how it is spent. Useful things to look at include program spending, fundraising costs, reserves, and executive compensation — not as isolated scores, but as a picture of how the organization operates.
+Form 990 and, when available, audited financial statements show how money comes in and how it is spent. For a shorter walkthrough of finding and reading a filing, see [Reading a Form 990](reading-a-form-990.md). Useful things to look at include program spending, fundraising costs, reserves, and executive compensation — not as isolated scores, but as a picture of how the organization operates.
 
 A few cautions:
 
